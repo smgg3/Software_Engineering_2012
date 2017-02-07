@@ -1,0 +1,19 @@
+body {background:url("images/2.jpg") repeat;margin:0;font-size:13px;font-family:arial;color:#3F3F3F;}
+#header {background-image:url(images/header_bckg.jpg);height:150px;background-repeat:repeat-y;}
+.name {font-size:30px;font-family:my_head;color:#fff;padding-left:350px;padding-top:20px}
+.tag {color:#B7CF1A;text-transform:uppercase;font-weight:bold;padding-left:560px;}
+#links-bg {height:49px;background-image:url(images/links-bg.gif);background-repeat:repeat-x}
+.toplinks {width:160px;text-align:center;text-transform:uppercase;font-weight:bold}
+.toplinks a {color:#fff;text-decoration:none}
+.toplinks a:hover {color:#B7CF1A;text-decoration:none}
+.sap {width:1px;color:#fff}
+.nag {height:500px;}
+
+.style{color:Darkorange;font-size:35px;font-weight:bold;text-shadow:3px 2px 1px white;}
+.style1{color:blue;font-size:15px;font-weight:bold;text-shadow:3px 2px 1px white;}
+
+p
+{
+font-family:arial;color:white;font-size:20px;
+}
+
